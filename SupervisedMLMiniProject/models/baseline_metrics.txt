@@ -1,0 +1,6 @@
+Reproduced baseline metrics on the 20% holdout set (random_state=42):
+MAE: 2517.4678305027
+MSE: 18218239.9183733091
+RMSE: 4268.2830176048
+R2: 0.9008563880
+Adjusted_R2: 0.8977940370
